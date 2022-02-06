@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me 
--                     Linkedin  https://www.linkedin.com/in/king1prashant1/
--                     Website   https://sites.google.com/view/bloodfank/home
+-                       Linkedin  https://www.linkedin.com/in/king1prashant1/
+-                       Website   https://sites.google.com/view/bloodfank/home
 -                     
 
 <!---
