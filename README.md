@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach on Linkedin  https://www.linkedin.com/in/king1prashant1/             
+- 📫 How to reach on Linktr.ee  https://linktr.ee/prashantt_kumar            
 
 <!---
 king11prashant11/king11prashant11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
