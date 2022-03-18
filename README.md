@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @king11prashant11
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Designing
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach on Linktr.ee  https://linktr.ee/prashantt_kumar            
 
