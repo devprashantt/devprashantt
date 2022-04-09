@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach on Linktr.ee  https://linktr.ee/prashantt_kumar            
+- 📫 How to reach on Linktree  https://linktr.ee/prashantt_kumar            
 
 
 
