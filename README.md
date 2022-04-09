@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @king11prashant11
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m interested in Designing (Canva)
+- 🌱 I’m currently learning Flutter & Python
+- 💞️ I’m also looking to collaborate on Web Development Projects
 - 📫 How to reach on Linktree  https://linktr.ee/prashantt_kumar            
 
 
