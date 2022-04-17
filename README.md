@@ -5,7 +5,7 @@
 - 📫 How to reach on Linktree  https://linktr.ee/prashantt_kumar            
 - 😍 Total Number Of Profile Visits  
 
-        ![Visitor Count](https://profile-counter.glitch.me/{king11prashant11}/count.svg)
+     ![Visitor Count](https://profile-counter.glitch.me/{king11prashant11}/count.svg)
 
 <!---
 king11prashant11/king11prashant11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
