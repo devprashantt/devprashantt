@@ -2,7 +2,8 @@
 - 👀 I’m interested in Designing ![canva](https://img.shields.io/badge/canva-%2314354C.svg?style=for-the-badge&logo=canva&logoColor=skyblue) & ![figma](https://img.shields.io/badge/figma-%2314354C.svg?style=for-the-badge&logo=figma&logoColor=red)
 - 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=blue) & ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
 - 🧩 Other Languages Learned By Me ![c](https://img.shields.io/badge/language-%2314354C.svg?style=for-the-badge&logo=c&logoColor=pink)
-- 💞️ I’m also looking to collaborate on Web Development Projects
+
+- 💞️ I’m also looking to collaborate on Web Development Projects ![website](https://img.shields.io/badge/website-%2314354C.svg?style=for-the-badge&logo=namecheap&logoColor=red)
       
 - 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/king11prashant11)  
 - 📫 How to reach on Linktree  https://linktr.ee/prashantt_kumar
