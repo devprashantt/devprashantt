@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @king11prashant11
-- 👀 I’m interested in Designing ![canva](https://img.shields.io/badge/canva-%2314354C.svg?style=for-the-badge&logo=canva&logoColor=skyblue) & ![figma](https://img.shields.io/badge/figma-%2314354C.svg?style=for-the-badge&logo=figma&logoColor=red)
+- 👀 I’m interested in Designing ![canva](https://img.shields.io/badge/canva-%2314354C.svg?style=for-the-badge&logo=canva&logoColor=skyblue) & ![figma](https://img.shields.io/badge/figma-%2314354C.svg?style=for-the-badge&logo=figma&logoColor=red) & ![adobe](https://img.shields.io/badge/adobe-%2314354C.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 - 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=blue) & ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
