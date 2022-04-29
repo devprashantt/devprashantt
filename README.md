@@ -7,13 +7,11 @@ I've Been Learning Coding Since January 2022
 * 🖥️  See my portfolio at [MyPortfolio](http://https://sites.google.com/view/bloodfank/profile)
 * ✉️  You can contact me at [pk3076889@gmail.com](mailto:pk3076889@gmail.com)
 * 🚀  I'm currently working on [Web Development](http://https://sites.google.com/view/bloodfank/nature)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Flutter | HTML 
 * 🤝  I'm open to collaborating on Web Designing Projects
 * 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/king11prashant11) 
 * ⚡  I'm Secretly IronMan
-
-  <a href="https://www.github.com/devprashantt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devprashantt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🍁 Follow Me On My Social Handle      [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/devprashantt) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/prashantt_kumarr_/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/prashanttkumarr/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://sites.google.com/view/bloodfank/nature)
 
 ### Skills
 
@@ -66,6 +64,9 @@ src="https://img.shields.io/github/followers/devprashantt?logo=github&style=for-
 - 📫 How to reach on Linktree  https://linktr.ee/prashantt_kumar
 
 - 🍁 Follow Me On My Social Handle      [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/devprashantt) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/prashantt_kumarr_/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/prashanttkumarr/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://sites.google.com/view/bloodfank/nature)
+
+ <a href="https://www.github.com/devprashantt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/devprashantt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devprashantt&theme=dark&show_icons=true) 
 
