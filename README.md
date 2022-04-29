@@ -3,14 +3,14 @@ Hi 👋 My name is Prashant Kumar Singh
 
 I've Been Learning Coding Since January 2022
 
-* 🌍  I'm based in Varanasi
+* 🌍  I'm based in Varanasi, Uttar Pradesh
 * 🖥️  See my portfolio at [MyPortfolio](http://https://sites.google.com/view/bloodfank/profile)
 * ✉️  You can contact me at [pk3076889@gmail.com](mailto:pk3076889@gmail.com)
 * 🚀  I'm currently working on [Web Development](http://https://sites.google.com/view/bloodfank/nature)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Web Designing Projects
-* ⚡  I'm Secretly IronMan
 * 😍 Total Profile Visits ![Profile views](https://gpvc.arturio.dev/king11prashant11) 
+* ⚡  I'm Secretly IronMan
 
 <a href="https://www.github.com/devprashantt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devprashantt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
