@@ -3,6 +3,8 @@ Hi 👋 My name is Prashant Kumar Singh
 
 I've Been Learning Coding Since January 2022
 
+ <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+
 * 🌍  I'm based in Varanasi, Uttar Pradesh
 * 🖥️  See my portfolio at [MyPortfolio](https://sites.google.com/view/bloodfank/profile)
 * ✉️  You can contact me at [pk3076889@gmail.com](mailto:pk3076889@gmail.com)
