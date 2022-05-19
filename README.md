@@ -1,9 +1,9 @@
 Hi 👋 My name is Prashant Kumar Singh
 =====================================
 
-I've Been Learning Coding Since January 2022
+<img align="right" height="300" width="300" alt="" src="https://github.com/devprashantt/PortFolio/blob/master/Earth.png" />
 
- <img align="right" height="200" width="330" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+I've Been Learning Coding Since January 2022
 
 * 🌍  I'm based in Varanasi, Uttar Pradesh
 * 🖥️  See my portfolio at [SneakyPeeks](https://sites.google.com/view/bloodfank/profile) & [MyPortfolio](https://sneakypeeks.my.canva.site/prashant) & [Behance](https://www.behance.net/prashantt)
