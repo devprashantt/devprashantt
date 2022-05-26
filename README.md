@@ -1,7 +1,7 @@
 Hi 👋 My name is Prashant Kumar Singh
 =====================================
 
-<img align="right" height="300" width="300" alt="" src="https://github.com/devprashantt/PortFolio/blob/master/Earth.png" />
+<img align="right" height="300" width="300" alt="" src="https://github.com/devprashantt/PortFolio/blob/master/assets/illustartion/illustration%20(1).png" />
 
 I've Been Learning Coding Since January 2022
 
