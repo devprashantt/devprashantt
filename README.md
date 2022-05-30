@@ -7,7 +7,7 @@ I've Been Learning Coding Since January 2022
 
 * 🌍  I'm based in Varanasi, Uttar Pradesh
 * 🖥️  See my portfolio at [SneakyPeeks](https://sites.google.com/view/bloodfank/profile) & [MyPortfolio](https://sneakypeeks.my.canva.site/prashant) & [Behance](https://www.behance.net/prashantt)
-* ✉️  You can contact me at [Mail Us](mailto:pk3076888@gmail.com)
+* ✉️  You can contact me at [MailUs](mailto:pk3076888@gmail.com)
 * 🚀  I'm currently working on [Web Development](https://sites.google.com/view/bloodfank/nature)
 * 🧠  I'm learning Flutter | JavaScript 
 * 🤝  I'm open to collaborating on Web Designing Projects
