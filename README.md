@@ -9,7 +9,7 @@ I've Been Learning Coding Since January 2022
 * 🖥️  See my portfolio at [SneakyPeeks](https://sites.google.com/view/bloodfank/profile) & [MyPortfolio](https://sneakypeeks.my.canva.site/prashant) & [Behance](https://www.behance.net/prashantt)
 * ✉️  You can contact me at [Mail](mailto:pk3076888@gmail.com)
 * 🚀  I'm currently working on [WebDevelopment](https://sites.google.com/view/bloodfank/nature)
-* 🧠  I'm learning Flutter | JavaScript 
+* 🧠  I'm learning Backend Development 
 * 🤝  I'm open to collaborating on Web Designing Projects
 * 😍  Total Profile Visits ![Profile views](https://gpvc.arturio.dev/king11prashant11) 
 * ⚡  I'm Secretly IronMan
