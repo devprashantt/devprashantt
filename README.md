@@ -44,7 +44,7 @@ I've Been Learning Coding Since January 2022
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="http://markimarta.com/wp-content/uploads/2016/08/jquery-logo1.png" width="36" height="36" alt="CSS3" /></a>
  
 ### Designing
-<a href="https://www.behance.com/devprashantt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>  <a href="https://www.dribbble.com/devprashantt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>  
+<a href="https://www.behance.com/prashantt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>  <a href="https://www.dribbble.com/devprashantt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>  
 
 ## Badges
 
