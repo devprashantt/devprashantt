@@ -1,6 +1,8 @@
 Hi 👋 My Name Is Prashant Kumar Singh
 =====================================
 
+<img align=right src = "https://github.com/devprashantt/MediaOryx/blob/master/assets/illustartion/illustration%20(1).png" height = 300 width = 300>
+
 I've Been Learning Coding Since January 2022
 
 * 🌍  I'm based in Varanasi, Uttar Pradesh
