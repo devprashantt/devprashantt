@@ -1,8 +1,6 @@
 Hi 👋 My Name Is Prashant Kumar Singh
 =====================================
 
-<img align="right" height="300" width="300" alt="" src="https://github.com/devprashantt/PortFolio/blob/master/assets/illustartion/illustration%20(1).png" />
-
 I've Been Learning Coding Since January 2022
 
 * 🌍  I'm based in Varanasi, Uttar Pradesh
