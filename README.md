@@ -7,7 +7,7 @@ I've Been Learning Coding Since January 2022
 
 * 🌍  I'm based in Varanasi, Uttar Pradesh
 * 🖥️  See my portfolio at [MyPortfolio](https://prashant-kumar.herokuapp.com/) & [Behance](https://www.behance.net/prashantt)
-* ✉️  You can contact me at [Mail](mailto:pk3076888@gmail.com)
+* ✉️  You can contact me at [Mail](mailto:officialprashanttt@gmail.com)
 * 🚀  I'm currently working on [WebDevelopment](https://sites.google.com/view/bloodfank/nature)
 * 🧠  I'm learning Backend Development 
 * 🤝  I'm open to collaborating on Web Designing Projects
