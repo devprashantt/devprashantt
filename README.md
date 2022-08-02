@@ -13,7 +13,7 @@ I've Been Learning Coding Since January 2022
 * 🤝  I'm open to collaborating on Web Designing Projects
 * 😍  Total Profile Visits ![Profile views](https://gpvc.arturio.dev/king11prashant11) 
 * ⚡  I'm Secretly IronMan
-* 🍁 Follow Me On My Social Handle      [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/devprashantt) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/prashantt_kumarr_/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/prashanttkumarr/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://sites.google.com/view/bloodfank/nature) [<img src="https://img.icons8.com/nolan/240/program.png" alt='twitter' height='32'>](https://leetcode.com/devprashantt/)
+* 🍁 Follow Me On My Social Handle      [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/devprashantt) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/prashantt_kumarr_/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/prashanttkumarr/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://www.designerslobby.com/)
 
 ## Badges
 
