@@ -34,7 +34,7 @@ I've Been Learning Coding Since January 2022
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24"></a>
-        <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-7952B3.svg?logo=jquery&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Jquery" src="https://img.shields.io/badge/Jquery-7952B3.svg?logo=jquery&logoColor=white" height="24"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24"></a>
 </p>
 
@@ -44,6 +44,7 @@ I've Been Learning Coding Since January 2022
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" height="24"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24"></a>
+    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-327FC7.svg?logo=mysql&logoColor=white" height="24"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
 </p>
@@ -51,7 +52,7 @@ I've Been Learning Coding Since January 2022
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white" height="24"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white" height="24"></a>
     <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/-Codesandbox-000000?logo=codesandbox& logoColor=white" height="24"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="24"></a>
