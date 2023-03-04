@@ -5,7 +5,7 @@ I've Been Learning Coding Since January 2022
 
 <img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
-* 🌍  I'm based in Varanasi, Uttar Pradesh
+* 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [Portfolio](https://prashant-kumarr.netlify.app/)
 * ✉️  You can contact me at [Mail](mailto:officialprashanttt@gmail.com)
 * 🚀  I'm currently working on [WebDevelopment](https://sites.google.com/view/bloodfank/nature)
