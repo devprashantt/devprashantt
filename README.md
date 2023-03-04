@@ -46,6 +46,7 @@ I've Been Learning Coding Since January 2022
     <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-327FC7.svg?logo=mysql&logoColor=white" height="24"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-050505.svg?logo=render&logoColor=%#5BDEC3" height="24"></a>
 </p>
 
 ### 💻 Software and tools
