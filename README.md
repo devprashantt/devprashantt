@@ -24,6 +24,7 @@ I've Been Learning Coding Since January 2022
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-14354C.svg?logo=java&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-4597CE.svg?logo=dart&logoColor=white" height="24"></a>
 </p>
 
