@@ -11,7 +11,7 @@ I'm a passionate programmer and product designer based in New Delhi, India. Curr
 ## 📚 Education
 - **Bachelor of Technology in Computer Science**
   - *Indian Institute of Information Technology (IIIT), Sonepat*
-  - *Current CGPA: 8.7*
+  - *Current CGPA: 8.7/10*
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/devprashantt/)
