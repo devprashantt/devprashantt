@@ -3,10 +3,12 @@
 I'm a passionate programmer and product designer based in New Delhi, India. Currently pursuing my Bachelor's in Computer Science from IIIT Sonepat.
 
 ## 🚀 Skills
-- **Programming Languages:** Worked in Python, Java, Dart, JavaScript/TypeScript and C++ 
-- **Frameworks & Libraries:** Experienced in working with Node, Express, Flutter, React, Redux, React Native, and Flask
-- **Database Management:** Skilled in utilizing MySQL, MongoDB, Redis and TiDB for efficient data handling
-- **Software and Tools:** Git, Docker, Postman, AWS, Product Designing using Figma, Illustrator, Canva and Photoshop
+- **Programming Languages:** Python, Java, Dart, JavaScript/TypeScript and C++ 
+- **Frameworks & Libraries:** Node, Express, Flutter, React/Next, Redux, React Native, and Flask
+- **Database Management:** MySQL, MongoDB, Redis and TiDB
+- **Software and Tools:** Git, Docker, Postman, AWS
+- **Product Designing:** Figma, Adobe Illustrator, Adobe Photoshop, Canva, and Blender
+- **Machine Learning:** Python, Scikitlearn, Preprocessing
 
 ## 📚 Education
 - **Bachelor of Technology in Computer Science**
