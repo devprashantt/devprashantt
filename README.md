@@ -8,7 +8,7 @@ I'm a passionate programmer and product designer based in New Delhi, India. Curr
 - **Database Management:** MySQL, MongoDB, Redis and TiDB
 - **Software and Tools:** Git, Docker, Postman, AWS
 - **Product Designing:** Figma, Adobe Illustrator, Adobe Photoshop, Canva, and Blender
-- **Machine Learning:** Python, Scikitlearn, Preprocessing
+- **Machine Learning:** Python, Scikitlearn, Deep Learning
 
 ## 📚 Education
 - **Bachelor of Technology in Computer Science**
