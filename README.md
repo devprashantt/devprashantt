@@ -16,8 +16,8 @@ I'm a passionate programmer and product designer based in New Delhi, India. I am
   - *Current CGPA: 8.5/10*
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/devprashantt/)
-- [Portfolio](https://prashant-kumarr.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/devprashantt)
+- [Portfolio](http://prashantworks.com)
 - [Resume](https://ik.imagekit.io/bjotngxai/Prashant%20Kumar%20Singh%20_Software%20Developer_.pdf?updatedAt=1724668271625)
 
 Let's connect and explore the world of technology together! 👨‍💻
